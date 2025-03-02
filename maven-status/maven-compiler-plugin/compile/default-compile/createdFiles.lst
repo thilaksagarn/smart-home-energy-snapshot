@@ -1,0 +1,9 @@
+com\example\energy\EnergyApplication.class
+com\example\energy\repository\EnergyUsageRepository.class
+com\example\energy\model\EnergyUsage.class
+com\example\energy\model\Appliance.class
+com\example\energy\App.class
+com\example\energy\repository\ApplianceRepository.class
+com\example\energy\model\User.class
+com\example\energy\service\EnergyService.class
+com\example\energy\controller\EnergyController.class
