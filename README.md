@@ -14,11 +14,7 @@ This project is a **Spring Boot** application that collects and manages energy u
    - [Base URL](#base-url)
    - [Endpoints](#endpoints)
 5. [Testing with Postman](#testing-with-postman)
-   - [Import the Collection](#import-the-collection)
-   - [Set Up Environment Variables](#set-up-environment-variables)
    - [Test the Endpoints](#test-the-endpoints)
-6. [Database Schema](#database-schema)
-7. [Contributing](#contributing)
 
 ---
 
