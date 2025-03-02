@@ -70,7 +70,8 @@ We chose **PostgreSQL** because:
 - **Database**: PostgreSQL
 - **API Testing**: Postman
 - **Build Tool**: Maven
-- **Version Control**:intelliJ IDEA
+- **Version Control**: Git
+- **IDE**: IntelliJ IDEA
 
 ---
 
